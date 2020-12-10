@@ -8,6 +8,7 @@ DRONEBIRD定期訓練2020年12月 エアロセンス社VTOLエアロボウイン
 # Information
 * XYZtiles: https://tiles.openaerialmap.org/5fd1970b350ee000054d6ef1/0/5fd1970b350ee000054d6ef2/{z}/{x}/{y}
 * HinataGIS: https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#ZlGMJr3Cqhme
+* GeoTIFF: https://oin-hotosm.s3.amazonaws.com/5fd1970b350ee000054d6ef1/0/5fd1970b350ee000054d6ef2.tif
 
 # License
 [© Aerosense/DRONEBIRD, CC BY 4.0](https://github.com/dronebird/sagamihara20201208takatabashi1130aerosense01arw/blob/main/LICENSE)
